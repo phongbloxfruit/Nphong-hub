@@ -1,4 +1,4 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V2/refs/heads/main/UiREDzV2.lua")))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/phongbloxfruit/Nphong-ui/refs/heads/main/ui.txt")))()
 
        local Window = MakeWindow({
          Hub = {
